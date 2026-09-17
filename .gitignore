@@ -5,3 +5,6 @@ __pycache__/
 data/**/groundtruth/
 data/_cache/
 /*.zip
+tiers_gt/
+day5_all_submissions*/
+
